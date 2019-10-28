@@ -1,5 +1,11 @@
 # PineraRenuncia
 
-Este repositorio busca compartir texto y códigos para analizar grandes volúmenes de texto y hacer nubes de palabras. 
+Este repositorio busca el texto que resulta de descargar twits que contienen los términos" piñera", "pinera" y "renuncia". El dataset fue recolectado utilizando hashtags asociados al movimiento social de Chile (e.j: #renunciapiñera #ChileDesperto #EstoPasaEnChile #ChileSeCanso hasta el día martes 22 de octubre. 
 
-Los twits fueron bajados por Felipe González e Ignacio Tampe.
+Además compartimos el código para preprocesar el texto, la imágen y el poster por si quieres modificarlo. Siéntete libre de usarlo. 
+
+Colaboradores:
+
+Ignacio Tampe: https://www.linkedin.com/in/nachotp/
+Felipe González: http://gonzalezf.github.io/
+Jocelyn Dunstan: https://sites.google.com/view/jdunstan/home
