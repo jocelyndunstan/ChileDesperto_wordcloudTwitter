@@ -6,7 +6,7 @@ Además compartimos el código para preprocesar el texto, la imágen y el poster
 
 Colaboradores:
 
-Ignacio Tampe: https://www.linkedin.com/in/nachotp/
-Felipe González: http://gonzalezf.github.io/
-Fabián Villena: @fvillena
-Jocelyn Dunstan: https://sites.google.com/view/jdunstan/home
+* Ignacio Tampe: https://www.linkedin.com/in/nachotp/
+* Felipe González: http://gonzalezf.github.io/
+* Fabián Villena: https://github.com/fvillena
+* Jocelyn Dunstan: https://sites.google.com/view/jdunstan/home
